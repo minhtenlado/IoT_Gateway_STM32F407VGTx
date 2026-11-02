@@ -229,7 +229,6 @@ IoT_gateway_STM32F407/
 - [x] PCB layout **6 copper layers** đã có trong repository.
 - [x] Đã xuất 3 ảnh 3D, 6 lớp đồng và 2 ảnh bổ sung.
 - [x] Đã xuất Gerber/Drill, BOM và component placement files.
-- [x] Có header **J1** cho SWD của MCU chính U1.
 - [x] Có mã nguồn **dap42 CMSIS-DAP** làm firmware tham khảo cho U1.
 - [x] Hoàn tất và xác nhận **ERC/DRC**, clearance, copper stackup, lớp cách ly.
 - [ ] Kiểm tra đường nguồn 12 V, 5 V, 3.3 V và tách nguồn USB debug.
